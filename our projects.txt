@@ -1,0 +1,21 @@
+electrosurgical  units
+xray CONTROL 
+AUTOMATIC WASHING MACHINE 
+DEFIBRILLATORS 
+DEFIBRILLATORS ANALYSERS
+XRAY dose meters 
+medical gas alarm systems 
+cattle immobilizers
+laser brain treatment 
+laser communications 
+laser therapy 
+medical operation light control 
+ozone generators 
+remote control 
+electronic timers 
+ultrasound units
+dental unit control 
+autoclave control 
+boiler control 
+shock wave control 
+endo washing equipment 
